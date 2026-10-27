@@ -1,0 +1,131 @@
+EmployeeID,EmployeeName,Department,City,Salary,Bonus,PerformanceScore,HireDate,ReviewDate,EmploymentType
+EMP-3001,Ahmed Ali,IT,Alexandria,20911.54,500.0,,2025-07-13,29/10/2025,
+EMP-3002,Sara Hassan,Operations,Giza,17807.98,1500.0,3.0,2025-02-19,30/07/2025,
+EMP-3003,Sara Hassan,HR,Luxor,19569.4,,,2025-09-26,06/12/2025,
+EMP-3004,Sara Hassan,Marketing,Luxor,6733.83,1000.0,,2025-02-07,28/03/2025,Part Time
+EMP-3005,Nour Samy,it,Asyut,20283.56,,,2025-08-06,09/01/2026,Contract
+EMP-3006,Ahmed Ali,Marketing,Asyut,20720.65,,1.0,2025-03-28,22/06/2025,
+EMP-3007,Lina Youssef,HR,Giza,8117.82,1000.0,,2025-11-13,07/02/2026,Part Time
+EMP-3008,Mona Adel,IT,Luxor,27409.03,,6.0,2025-07-11,10/11/2025,
+EMP-3009,Nour Samy,Marketing,Asyut,16206.54,1500.0,,2025-09-12,18/12/2025,
+EMP-3010,Ahmed Ali,,cairo,27827.23,500.0,3.0,2025-06-12,20/11/2025,Full Time
+EMP-3011,Ahmed Ali,HR,Luxor,25294.7,500.0,,2025-05-14,02/09/2025,Full Time
+EMP-3012,Karim Tarek,Operations,Giza,18594.99,1000.0,,2025-02-21,15/04/2025,Part Time
+EMP-3013,John Smith,HR,Cairo,20387.03,500.0,,2025-10-10,17/03/2026,Part Time
+EMP-3014,Sara Hassan,HR,Cairo,12316.27,,10.0,2025-05-16,16/09/2025,Contract
+EMP-3015,Omar Khaled,HR,Giza,11909.01,,1.0,2025-05-10,09/06/2025,Contract
+EMP-3016,  Ahmed Ali  ,Finance,Asyut,28633.38,1000.0,8.0,2025-02-05,07/06/2025,Full Time
+EMP-3017,Nour Samy,Finance,Alexandria,27830.37,1000.0,6.0,2025-06-02,19/07/2025,Part Time
+EMP-3018,Sara Hassan,IT,Luxor,14838.69,500.0,,2025-01-27,18/03/2025,Contract
+EMP-3019,Ahmed Ali,HR,Alexandria,29608.07,500.0,,2025-05-30,28/07/2025,
+EMP-3020,Sara Hassan,HR,Giza,28680.05,,3.0,2025-01-30,08/05/2025,Part Time
+EMP-3021,Lina Youssef,Operations,Cairo,6494.83,500.0,,2025-07-17,29/09/2025,Full Time
+EMP-3022,Karim Tarek,HR,Asyut,6647.61,1000.0,,2025-09-15,17/11/2025,Part Time
+EMP-3023,Nour Samy,Marketing,Giza,6632.61,,,2025-05-25,11/09/2025,Part Time
+EMP-3024,John Smith,IT,Asyut,23841.28,1500.0,,2025-06-26,17/09/2025,Contract
+EMP-3025,Karim Tarek,Operations,Asyut,13993.77,1000.0,6.0,2025-05-20,01/07/2025,Full Time
+EMP-3026,Sara Hassan,HR,Luxor,14787.0,1000.0,1.0,2025-12-18,04/05/2026,
+EMP-3027,Lina Youssef,HR,Cairo,26809.91,,,2025-05-12,21/06/2025,Contract
+EMP-3028,Ahmed Ali,Marketing,Cairo,6683.78,1000.0,,2025-07-17,17/08/2025,Full Time
+EMP-3029,Nour Samy,HR,Luxor,8096.54,1500.0,2.0,2025-01-20,23/06/2025,
+EMP-3030,John Smith,Operations,Luxor,29978.05,500.0,,2025-09-23,27/01/2026,
+EMP-3031,Lina Youssef,IT,Cairo,16827.85,1500.0,,2025-01-25,01/05/2025,
+EMP-3032,Omar Khaled,Finance,Asyut,29295.2,500.0,,2025-10-01,27/03/2026,Full Time
+EMP-3033,Mona Adel,Operations,Luxor,12901.28,500.0,3.0,2025-03-28,02/06/2025,Contract
+EMP-3034,Omar Khaled,Finance,Asyut,20823.26,500.0,,2025-10-25,22/02/2026,Full Time
+EMP-3035,Karim Tarek,Operations,Cairo,10720.91,1500.0,2.0,2025-03-10,08/07/2025,Contract
+EMP-3036,Sara Hassan,Operations,Cairo,5938.73,,,2025-01-12,05/07/2025,Part Time
+EMP-3037,John Smith,,Cairo,19902.48,,6.0,2025-01-15,13/04/2025,Contract
+EMP-3038,Mona Adel,HR,Asyut,15168.32,,,2025-01-22,19/05/2025,
+EMP-3039,Omar Khaled,Marketing,Alexandria,23399.36,1500.0,4.0,2025-08-06,11/09/2025,Contract
+EMP-3040,Omar Khaled,HR,Luxor,29724.67,,4.0,2025-03-29,01/05/2025,Full Time
+EMP-3041,Sara Hassan,HR,Luxor,16791.46,1500.0,2.0,2025-02-17,09/04/2025,
+EMP-3042,Lina Youssef,Finance,Giza,25912.23,1500.0,,2025-05-04,13/07/2025,Part Time
+EMP-3043,,Marketing,Alexandria,28502.82,1000.0,,2025-10-04,07/01/2026,Full Time
+EMP-3044,Karim Tarek,Marketing,Asyut,20790.25,,,2025-06-10,20/09/2025,Contract
+EMP-3045,Mona Adel,IT,Cairo,7753.12,1000.0,1.0,2025-08-20,12/10/2025,Part Time
+EMP-3046,Sara Hassan,Marketing,Asyut,6435.65,1500.0,9.0,2025-12-29,06/03/2026,Part Time
+EMP-3047,Mona Adel,IT,Alexandria,28890.13,1000.0,,2025-02-24,05/06/2025,Full Time
+EMP-3048,Nour Samy,IT,Cairo,,1000.0,6.0,2025-09-21,12/03/2026,Full Time
+EMP-3049,John Smith,,Asyut,24432.43,1000.0,,2025-07-12,30/12/2025,Part Time
+EMP-3050,Lina Youssef,HR,Asyut,7223.1,1000.0,8.0,2025-06-18,12/09/2025,Part Time
+EMP-3051,Omar Khaled,Operations,Alexandria,17121.67,500.0,,2025-03-22,25/04/2025,Contract
+EMP-3052,John Smith,Operations,Cairo,7990.58,1000.0,,2025-11-08,19/12/2025,Part Time
+EMP-3053,,IT,Cairo,,1000.0,10.0,2025-06-09,22/10/2025,Part Time
+EMP-3054,Lina Youssef,Operations,Giza,22213.21,,,2025-06-11,27/09/2025,Part Time
+EMP-3055,Lina Youssef,Finance,Asyut,20283.71,1000.0,7.0,2025-03-11,27/07/2025,Contract
+EMP-3056,Ahmed Ali,HR,Cairo,10255.76,500.0,6.0,2025-07-12,09/10/2025,Part Time
+EMP-3057,Sara Hassan,Operations,Luxor,7830.42,1000.0,7.0,2025-10-11,03/03/2026,Contract
+EMP-3058,Lina Youssef,HR,Cairo,27049.72,1500.0,,2025-06-24,30/07/2025,Contract
+EMP-3059,Omar Khaled,Finance,Alexandria,27291.1,1000.0,10.0,2025-01-14,10/03/2025,Contract
+EMP-3060,Lina Youssef,IT,Asyut,21864.82,1500.0,,2025-02-27,21/06/2025,
+EMP-3061,Sara Hassan,Marketing,Cairo,9083.24,,8.0,2025-08-16,03/10/2025,Contract
+EMP-3062,Mona Adel,IT,Alexandria,21138.13,1000.0,9.0,2025-12-12,05/04/2026,Full Time
+EMP-3063,Mona Adel,Operations,Alexandria,15101.82,1000.0,,2025-04-15,07/09/2025,Part Time
+EMP-3064,Karim Tarek,Finance,Cairo,12114.16,,7.0,2025-07-06,09/08/2025,Full Time
+EMP-3065,Ahmed Ali,Operations,Giza,6682.02,,6.0,2025-09-28,12/01/2026,Contract
+EMP-3066,Nour Samy,IT,Alexandria,18432.81,,,2025-10-19,06/03/2026,Part Time
+EMP-3067,Nour Samy,Operations,Asyut,13043.53,,3.0,2025-11-04,19/01/2026,
+EMP-3068,Karim Tarek,HR,Luxor,11787.68,,,2025-01-05,18/04/2025,
+EMP-3069,Nour Samy,IT,Cairo,6826.83,1000.0,,2025-05-18,29/09/2025,Part Time
+EMP-3070,John Smith,IT,Alexandria,13459.57,500.0,,2025-03-24,15/06/2025,Contract
+EMP-3071,John Smith,Finance,Alexandria,24736.25,1500.0,,2025-08-14,02/02/2026,Part Time
+EMP-3072,Sara Hassan,Marketing,Alexandria,11867.81,,6.0,2025-12-23,27/04/2026,
+EMP-3073,Karim Tarek,Marketing,Alexandria,8846.34,,,2025-05-31,25/08/2025,Part Time
+EMP-3074,Mona Adel,,Luxor,24917.86,1500.0,,2025-07-06,06/12/2025,
+EMP-3075,Ahmed Ali,Marketing,Luxor,19151.63,500.0,,2025-06-14,12/10/2025,Part Time
+EMP-3076,Mona Adel,IT,Cairo,,,,2025-06-07,30/09/2025,
+EMP-3077,John Smith,IT,Asyut,20688.4,1500.0,6.0,2025-06-24,24/11/2025,Contract
+EMP-3078,Sara Hassan,Operations,Alexandria,20211.97,1500.0,1.0,2025-03-08,26/05/2025,Contract
+EMP-3079,John Smith,Marketing,Asyut,7910.05,1000.0,,2025-04-16,23/05/2025,Part Time
+EMP-3080,Mona Adel,Operations,Asyut,29314.16,1500.0,,2025-02-13,22/07/2025,Full Time
+EMP-3081,Mona Adel,Marketing,Cairo,28384.93,1500.0,6.0,2025-08-24,13/01/2026,Contract
+EMP-3082,Mona Adel,HR,Cairo,9289.29,500.0,,2025-11-26,22/01/2026,Contract
+EMP-3083,John Smith,Operations,Luxor,19500.71,1500.0,,2025-12-12,16/02/2026,Full Time
+EMP-3084,Lina Youssef,IT,Alexandria,18564.61,1000.0,,2025-02-18,18/06/2025,Part Time
+EMP-3085,Omar Khaled,Operations,Alexandria,15479.57,1000.0,2.0,2025-09-27,16/11/2025,Full Time
+EMP-3086,John Smith,IT,Alexandria,26141.1,500.0,9.0,2025-10-05,10/12/2025,Contract
+EMP-3087,Ahmed Ali,IT,Cairo,29201.8,500.0,1.0,2025-02-05,10/07/2025,Part Time
+EMP-3088,Lina Youssef,Finance,Alexandria,6861.63,,,2025-09-01,24/02/2026,
+EMP-3089,Lina Youssef,IT,Cairo,19506.82,,,2025-08-18,24/10/2025,
+EMP-3090,Nour Samy,Marketing,Luxor,6493.77,1000.0,7.0,2025-03-26,01/08/2025,Part Time
+EMP-3091,,Marketing,Asyut,11811.48,1000.0,,2025-08-06,20/09/2025,Part Time
+EMP-3092,,IT,Cairo,29711.43,1500.0,,2025-04-24,15/07/2025,Part Time
+EMP-3093,John Smith,Marketing,Asyut,12370.71,,,2025-09-01,15/01/2026,Full Time
+EMP-3094,Omar Khaled,Finance,Luxor,7218.47,,7.0,2025-04-26,29/07/2025,Part Time
+EMP-3095,Mona Adel,HR,Alexandria,6008.85,,,2025-04-06,25/07/2025,Part Time
+EMP-3096,Ahmed Ali,IT,Cairo,21127.2,500.0,5.0,2025-01-26,06/06/2025,Full Time
+EMP-3097,John Smith,Finance,Giza,28842.72,500.0,8.0,2025-01-27,10/06/2025,Contract
+EMP-3098,Ahmed Ali,HR,Luxor,24791.27,1500.0,3.0,2025-05-15,22/10/2025,
+EMP-3099,Sara Hassan,Marketing,Giza,22608.17,500.0,,2025-11-19,14/03/2026,Full Time
+EMP-3100,Omar Khaled,,Cairo,7144.49,500.0,,2025-09-03,05/12/2025,Part Time
+EMP-3101,Nour Samy,Marketing,Asyut,15342.35,500.0,,2025-11-29,11/02/2026,
+EMP-3102,Nour Samy,Marketing,Cairo,23876.51,1000.0,9.0,2025-05-04,15/07/2025,
+EMP-3103,Sara Hassan,Marketing,Asyut,8045.76,1500.0,6.0,2025-04-21,29/08/2025,
+EMP-3104,Ahmed Ali,Operations,Cairo,25179.06,500.0,,2025-08-02,19/10/2025,Full Time
+EMP-3105,,Operations,Alexandria,25709.6,500.0,,2025-07-10,25/10/2025,
+EMP-3106,Karim Tarek,Operations,Giza,19855.57,500.0,,2025-07-15,30/11/2025,Full Time
+EMP-3107,Nour Samy,IT,Cairo,6648.77,,2.0,2025-03-13,23/08/2025,Full Time
+EMP-3108,Nour Samy,Finance,Luxor,27179.12,500.0,,2025-02-25,24/04/2025,
+EMP-3109,Omar Khaled,IT,Asyut,15935.57,1500.0,1.0,2025-08-11,10/12/2025,Part Time
+EMP-3110,Ahmed Ali,HR,Alexandria,14077.32,1000.0,3.0,2025-09-07,28/02/2026,
+EMP-3111,Ahmed Ali,HR,Giza,21582.0,500.0,4.0,2025-06-01,28/09/2025,Contract
+EMP-3112,Mona Adel,Marketing,Asyut,14256.88,1500.0,5.0,2025-06-10,13/10/2025,Part Time
+EMP-3113,Nour Samy,Finance,Cairo,12345.52,1500.0,2.0,2025-11-23,24/02/2026,
+EMP-3114,Karim Tarek,HR,Luxor,10772.47,500.0,,2025-10-27,04/02/2026,Contract
+EMP-3115,Omar Khaled,Operations,Cairo,20790.5,1000.0,,2025-07-22,28/09/2025,Contract
+EMP-3116,Omar Khaled,Operations,Cairo,26075.85,,,2025-02-23,30/03/2025,Contract
+EMP-3117,John Smith,Finance,Alexandria,7248.41,500.0,,2025-03-21,23/04/2025,
+EMP-3118,John Smith,Marketing,Cairo,23080.54,1500.0,8.0,2025-01-07,05/06/2025,
+EMP-3119,Omar Khaled,Operations,Alexandria,8571.2,1000.0,10.0,2025-01-01,28/06/2025,Full Time
+EMP-3120,Mona Adel,Marketing,Asyut,6397.68,1000.0,,2025-01-11,01/07/2025,
+EMP-3042,Lina Youssef,Finance,Giza,,1500.0,,2025-05-04,13/07/2025,Part Time
+EMP-3107,Nour Samy,IT,Cairo,6648.77,,2.0,2025-03-13,23/08/2025,Full Time
+EMP-3075,Ahmed Ali,Marketing,Luxor,19151.63,500.0,,2025-06-14,12/10/2025,Part Time
+EMP-3025,Karim Tarek,Operations,Asyut,,1000.0,6.0,2025-05-20,01/07/2025,Full Time
+EMP-3056,Ahmed Ali,HR,Cairo,10255.76,500.0,6.0,2025-07-12,09/10/2025,Part Time
+EMP-3003,Sara Hassan,HR,Luxor,19569.4,,,2025-09-26,06/12/2025,
+EMP-3029,Nour Samy,HR,Luxor,8096.54,1500.0,2.0,2025-01-20,23/06/2025,
+EMP-3060,Lina Youssef,IT,Asyut,21864.82,1500.0,,2025-02-27,21/06/2025,
+EMP-3085,Omar Khaled,Operations,Alexandria,15479.57,1000.0,2.0,2025-09-27,16/11/2025,Full Time
+EMP-3015,Omar Khaled,HR,Giza,11909.01,,1.0,2025-05-10,09/06/2025,Contract
